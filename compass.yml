@@ -1,0 +1,38 @@
+name: platform-samples
+id: ari:cloud:compass:73c27ebd-147d-438f-9621-81d472c666b0:component/9e9bd950-6fcb-4b39-8b4c-3b029381aa3f/89d5c3ed-f615-4c07-8328-aa9cd19ae150
+description: A public place for all platform sample projects.
+configVersion: 1
+typeId: MACHINE_LEARNING_MODEL
+ownerId: ari:cloud:identity::team/00a9f17a-efa3-4606-944d-9fff9b43f271
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/andoka-soudanai/platform-samples
+relationships:
+  DEPENDS_ON: []
+labels:
+  - android
+  - android-app
+  - android-application
+  - android-development
+  - android-library
+  - android-package
+  - android-sdk
+  - android-studio
+  - android-ui
+  - androidstudio
+  - github
+  - github-action
+  - github-actions
+  - github-actions-enabled
+  - github-api
+  - github-cloud-migrated
+  - github-config
+  - github-pages
+  - github-profile
+  - githugged
+  - language:shell
+  - source:github
+customFields: null
